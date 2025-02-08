@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Armstrong_Number", "Armstrong_Number\Armstrong_Number.csproj", "{52F41167-53E7-49EF-9595-83F20B9AB166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{6B235ED6-C826-4FD7-AFE0-64B95F7B8964}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{52F41167-53E7-49EF-9595-83F20B9AB166}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52F41167-53E7-49EF-9595-83F20B9AB166}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52F41167-53E7-49EF-9595-83F20B9AB166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B235ED6-C826-4FD7-AFE0-64B95F7B8964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B235ED6-C826-4FD7-AFE0-64B95F7B8964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B235ED6-C826-4FD7-AFE0-64B95F7B8964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B235ED6-C826-4FD7-AFE0-64B95F7B8964}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
